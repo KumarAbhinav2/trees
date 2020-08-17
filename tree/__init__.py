@@ -32,6 +32,9 @@ class BST:
             if node.right_child:
                 self._insert(node.right_child, val)
             else:
-                node.right_child = Node(val)
+                node.right_child = Node(val)     # absence  of left sub tree
+
+
+
 
 
