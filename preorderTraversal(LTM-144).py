@@ -27,6 +27,7 @@ class Solution:
         while _stack:
             node = _stack.pop()
             if node:
+                res.append(node.val)
                 _stack.append(node.right)
                 _stack.append(node.left)
         return res
