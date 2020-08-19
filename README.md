@@ -11,7 +11,7 @@ Repo is dedicate to host all leetcode tree problems (you can refer to leetcode b
 
 [Finding Kth Smallest node in Binary Search Tree (BST)](https://github.com/KumarAbhinav2/trees/blob/master/kthSmallestinBST(LTM-230).py)
 
-[Preorder Traversal] (https://github.com/KumarAbhinav2/trees/blob/master/preorderTraversal(LTM-144).py)
+[Preorder Traversal](https://github.com/KumarAbhinav2/trees/blob/master/preorderTraversal(LTM-144).py)
 
 [Find Second minimum value in Binary Tree](https://github.com/KumarAbhinav2/trees/blob/master/secondMinimumValue(LTE-671).py)
 
