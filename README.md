@@ -1,6 +1,6 @@
 # trees
 
-Repo is dedicate to host all leetcode tree problems (you can refer to leetcode by the number between parenthesis):
+Repo is dedicated to host all leetcode tree problems (you can refer to leetcode by the number between parenthesis):
 
 
 [Construct Binary Tree from inorder and postorder](https://github.com/KumarAbhinav2/trees/blob/master/binaryTreeFromInorderPostorder(LTM-106).py)
