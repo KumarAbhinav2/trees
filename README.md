@@ -16,3 +16,5 @@ Repo is dedicated to host all leetcode tree problems (you can refer to leetcode 
 [Find Second minimum value in Binary Tree](https://github.com/KumarAbhinav2/trees/blob/master/secondMinimumValue(LTE-671).py)
 
 [Converted Sorted Array to Binary Search Tree](https://github.com/KumarAbhinav2/trees/blob/master/sortedArrayToBST(LTM-108).py)
+
+[Morris Inorder Traversal without recursion and stack in O(n) time complexity, O(1) space complexity](https://github.com/KumarAbhinav2/trees/blob/master/morrisInOrderTraversal.py)
