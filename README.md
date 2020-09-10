@@ -23,5 +23,5 @@ Repo is dedicated to host all leetcode tree problems (you can refer to leetcode 
 
 10. [Construct Binary Tree From Preorder and Inorder Traversals](https://github.com/KumarAbhinav2/trees/blob/master/binaryTreeFromPreOrderInOrder(LTM-105).py)
 
-11.[Level Order Traversal](https://github.com/KumarAbhinav2/trees/blob/master/binary_tree_level_order_traversal(LTM-102).py)
+11. [Level Order Traversal](https://github.com/KumarAbhinav2/trees/blob/master/binary_tree_level_order_traversal(LTM-102).py)
 
