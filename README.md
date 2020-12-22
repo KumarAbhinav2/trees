@@ -17,4 +17,5 @@ Repo is dedicated to host all leetcode tree problems (you can refer to leetcode 
 12. [Increasing Order Search Tree](https://github.com/KumarAbhinav2/trees/blob/master/increasingOrderSearchTree(LTE-897).py)
 13. [N-ary Preorder Traversal](https://github.com/KumarAbhinav2/trees/blob/master/n-aryPreorderTraversal(LTE-589).py)
 14. [Search In BST](https://github.com/KumarAbhinav2/trees/blob/master/searchInBST(LTE-700).py)
+15. [Insert Into BST](https://github.com/KumarAbhinav2/trees/blob/master/insertIntoBST(LTM-701).py)
 
