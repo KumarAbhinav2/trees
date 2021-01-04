@@ -22,4 +22,5 @@ Repo is dedicated to host all leetcode tree problems (you can refer to leetcode 
 17. [Level Order Traversal BT - MEDIUM](https://github.com/KumarAbhinav2/trees/blob/master/levelOrderTraversal(LTM-102).py)
 18. [Find Node with closest value to a target](https://github.com/KumarAbhinav2/trees/blob/master/closestBSTValue(LTE-270).py)
 19. [Check if the tree is Balanced](https://github.com/KumarAbhinav2/trees/blob/master/isBalancedTree(LTE-110).py)
+20. [Lowest Common Ancestor Binary Tree - MEDIUM](https://github.com/KumarAbhinav2/trees/blob/master/lowestCommonAncestor(LTM-236).py)
 
